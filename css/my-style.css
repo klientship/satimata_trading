@@ -1,0 +1,14 @@
+.mar-left-500{
+    margin-left: -500px !important;
+    margin-right: unset !important;
+    left: 0 !important;
+    background-image: url(../../images/bg-image/col-bgimage-2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.spacing-mine{
+    padding: 90px 60px 50px 60px !important;
+}
+.footer .footer-logo img{
+    max-height: unset !important;
+}
